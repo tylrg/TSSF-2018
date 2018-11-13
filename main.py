@@ -3,10 +3,10 @@ import sys
 from twython import Twython
 import time
 
-apiKey = "bWj659T4CGMKeP5N2q9sBLJW4"
-apiSecret = "CTgjgHsJl94cqdbAmQbpVjlAhiCWiHidUWSUbc0wyEU2vXeOo1"
-accessToken = "832293691888918533-BRQOh6vTVKfj7J1OBG0nGv2A0kXplcj"
-accessTokenSecret = "Kwt9SKhgZjqgITqtFRUrE6XU8YuCnFSxT8pRKNjRuDOll"
+apiKey = "" #redacted
+apiSecret = "" #redacted
+accessToken = "" #redacted
+accessTokenSecret = "" #redacted
 days=1050;
 while True:
     print'_____________________________________________________________________________________'
